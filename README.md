@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kasuni Sewwandi</h1>
 <h3 align="center">Passionate IT Student |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gwakg1102&label=Profile%20views&color=0e75b6&style=flat" alt="gwakg1102" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gwakg1102&label=Profile%20views&color=0e75b6&style=flat" alt="gwakg1102" /> </p>
+
+---
 
 - 🌱 I’m currently learning **OOP with JAVA**
 
